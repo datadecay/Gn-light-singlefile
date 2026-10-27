@@ -12,7 +12,7 @@ Compared with GN Light it also:
   - fixes Unity games stalling at the end of loading when opened from a file
 
 Usage:
-    python3 build.py <path to SCHSwork/gn-light checkout> [output file]
+    python3 build.py <path to repo checkout> [output file]
 """
 import base64
 import io
