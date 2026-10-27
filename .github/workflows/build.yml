@@ -27,7 +27,7 @@ jobs:
       - name: Get the latest GN Light
         uses: actions/checkout@v4
         with:
-          repository: SCHSwork/gn-light
+          repository: datadecay/gn-light
           path: .source/gn-light
 
       - uses: actions/setup-python@v5
